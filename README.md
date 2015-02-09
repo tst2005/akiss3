@@ -29,3 +29,9 @@ public sealed class AKISS
 }
 ```
 
+
+# TODO
+
+ * release the C source code
+ * try to implement a Lua version
+
